@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=v%2bfD7Gm%2f&id=4F79CB411E81E98CBF077A4EF79DF77EA37AF6F5&thid=OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&exph=600&expw=800&q=animated+coding+images+girl&simid=608016156686695846&FORM=IRPRST&ck=9DB749B160B84C6172ECFE0DCCE83E4B&selectedIndex=2&ajaxhist=0&ajaxserp=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishapoojary7&label=Profile%20views&color=0e75b6&style=flat" alt="nishapoojary7" /> </p>
 
