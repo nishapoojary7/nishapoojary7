@@ -2,10 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Nisha Poojary</h1>
-
-<img style="display: block; margin: 0 auto;" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishapoojary7&label=Profile%20views&color=0e75b6&style=flat" alt="nishapoojary7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishapoojary7" alt="nishapoojary7" /></a> </p>
