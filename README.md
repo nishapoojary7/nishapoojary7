@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nisha Poojary</h1>
 
-<img align="right" alt="Coding" width="400" src="C:\Users\nisha\Downloads\DALL·E 2025-02-21 12.26.09 - A young girl coding on a laptop in an animated style. She is sitting at a cozy desk with a cup of coffee, surrounded by floating lines of colorful cod.webp">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hvI3ZNnd&id=E1D9AD22AA654A94122AC850D510D1598240C886&thid=OIP.hvI3ZNndcgpZF_mini43dwHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F012%2F744%2F791%2Fnon_2x%2Fcute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg&exph=980&expw=980&q=+animated+coding+image+of+girl&simid=608035033571552285&FORM=IRPRST&ck=44CAC262C13C15153D1D80C444C1E93C&selectedIndex=26&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0">
 
 
 
