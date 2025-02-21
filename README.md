@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nisha Poojary</h1>
 
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hvI3ZNnd&id=E1D9AD22AA654A94122AC850D510D1598240C886&thid=OIP.hvI3ZNndcgpZF_mini43dwHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F012%2F744%2F791%2Fnon_2x%2Fcute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg&exph=980&expw=980&q=+animated+coding+image+of+girl&simid=608035033571552285&FORM=IRPRST&ck=44CAC262C13C15153D1D80C444C1E93C&selectedIndex=26&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0">
-
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.Uz1q17pAY9qiYXo1cSsM6wHaGK?pid=ImgDet&w=184&h=153&c=7&dpr=1.3">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishapoojary7&label=Profile%20views&color=0e75b6&style=flat" alt="nishapoojary7" /> </p>
